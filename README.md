@@ -13,4 +13,4 @@ Las características básicas que tiene esta aplicación incluyen:
 -	Notificaciones y mensajes entre dispositivos (Cloud Messaging)
 -	Notificaciones de recordatorio ([React Native Push Notifications](https://github.com/zo0r/react-native-push-notification))
 
-Descarga una apk de prueba para Android [aquí](https://github.com/aursalgut/BookStand/releases)
+Descarga una apk de prueba para Android [aquí](https://github.com/aursalgut/BookStand-Release/releases)
