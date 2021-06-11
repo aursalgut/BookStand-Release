@@ -15,7 +15,7 @@ export function InformacionBasica(props: {
 		<Fila style={{alignItems: 'flex-start'}}>
 			<Image
 				source={errorImagen ? require('../../assets/images/libro_icon.png') : {
-					uri: `http://covers.openlibrary.org/b/isbn/${props.estado.libro.isbn}-M.jpg?default=false`,
+					uri: `https://covers.openlibrary.org/b/isbn/${props.estado.libro.isbn}-M.jpg?default=false`,
 				}}
 				style={styles.imagenLibro}
 				onError={() => {
