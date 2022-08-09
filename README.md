@@ -30,4 +30,4 @@ Las características básicas que tiene esta aplicación incluyen:
  </table>
 
 
-Descarga una apk de prueba para Android [aquí](https://github.com/aursalgut/BookStand-Release/releases)
+La aplicación actualmente no está en funcionamiento. Mantengo el código de este repositorio como referencia.
