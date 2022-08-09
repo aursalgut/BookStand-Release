@@ -1,5 +1,5 @@
 # BookStand
-BookStand es una aplicación móvil hecha en [React Native](https://reactnative.dev/) como parte de mi trabajo de fin de Grado.
+BookStand es una aplicación móvil hecha en [React Native](https://reactnative.dev/) como parte de [mi trabajo de fin de Grado](https://idus.us.es/handle/11441/114920).
 
 BookStand es una aplicación pensada para el inventariado y la organización de los libros físicos de una persona. Como elemento principal, BookStand permite llevar un control de los libros que un usuario decide prestar a otro usuario de la aplicación, mediante notificaciones y mensajes enviados entre dichos usuarios.
 
